@@ -22,8 +22,8 @@
 
 Here are the basics:
 
-- [x]  Click anywhere and just start typing
-- [ ]  Hit `/` to see all the types of content you can add - headers, videos, sub pages, etc.
+- :white_check_mark:  Click anywhere and just start typing
+- :green_check_mark:  Hit `/` to see all the types of content you can add - headers, videos, sub pages, etc.
     
     [Example sub page](https://www.notion.so/Example-sub-page-78d2704593f04d24b3354ab4dc6c815b)
     
