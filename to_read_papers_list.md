@@ -1,7 +1,7 @@
 # To Read Papers List
 
-- 2014.ECCV_LSD-SLAM
-- :heavy_check_mark: 2021.08_COVINS: Visual-Inertial SLAM for Centralized Collaboration
+- :white_check_mark: 2014.ECCV_LSD-SLAM
+- :white_large_square: 2021.08_COVINS: Visual-Inertial SLAM for Centralized Collaboration
 - 
 
 
