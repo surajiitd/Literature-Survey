@@ -11,3 +11,15 @@
 - 2014.7_ORB-SLAM
 - 2016_ORB-SLAM2
 - 
+
+
+## Concepts to Learn through Standard Source(or Papers)
+- RNN
+- LSTM (and GRU)
+- Bi-LSTM
+- BERT
+- XL...
+- RoBERTa
+- ViT
+- ViTAE
+- GAN
