@@ -1,15 +1,16 @@
 # To Read Papers List
 
 - 2014.ECCV_LSD-SLAM
-- 2021.08_Covins
+- 2021.08_COVINS: Visual-Inertial SLAM for Centralized Collaboration
 - 
+
 
 
 ## To Revise [When have less time]
 
 - 2014.7_ORB-SLAM
 - 2016_ORB-SLAM2
-
+- 
 
 
 
@@ -21,7 +22,7 @@
 
 Here are the basics:
 
-- [ ]  Click anywhere and just start typing
+[ ]  Click anywhere and just start typing
 - [ ]  Hit `/` to see all the types of content you can add - headers, videos, sub pages, etc.
     
     [Example sub page](https://www.notion.so/Example-sub-page-78d2704593f04d24b3354ab4dc6c815b)
