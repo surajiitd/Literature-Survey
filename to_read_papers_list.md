@@ -44,7 +44,7 @@ Below 3 are the Early Deep Networks for Multiview Problems(said in DROID-SLAM ta
 
 
 
-### Concepts to Learn through Standard Source(or Papers): 
+### NLP Concepts to Learn through Standard Source(or Papers): 
 
 RNN, LSTM (and GRU), Bi-LSTM, BERT, XL..., RoBERTa, ViT, ViTAE, GAN, etc.
 
