@@ -26,7 +26,7 @@ Below 3 are the Early Deep Networks for Multiview Problems(said in DROID-SLAM ta
 - 2021.08.NIPS21_DROID-SLAM
 
 
-## Not Related to Research Area (on Deep Learning, etc)
+## Deep Learning Papers/Concepts to cover
 - AlexNet, VGGNet, Resnet
 - MobileNet
 - EfficientNet
@@ -44,14 +44,7 @@ Below 3 are the Early Deep Networks for Multiview Problems(said in DROID-SLAM ta
 
 
 
-### Concepts to Learn through Standard Source(or Papers)
-- RNN
-- LSTM (and GRU)
-- Bi-LSTM
-- BERT
-- XL...
-- RoBERTa
-- ViT
-- ViTAE
-- GAN
+### Concepts to Learn through Standard Source(or Papers): 
+
+RNN, LSTM (and GRU), Bi-LSTM, BERT, XL..., RoBERTa, ViT, ViTAE, GAN, etc.
 
