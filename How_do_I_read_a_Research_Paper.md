@@ -8,9 +8,8 @@
 5. Read all of it from start.
   - Ques2.How are they better than the previous methods? 
   - Ques3.Proposed Method 
-  - Ques4.How do they do it? 
-  - Ques5.What have they not done? 
-  - Ques6.Key Take away for us:
+  - Ques4.What have they not done? 
+  - Ques5.Key Take away for us:
 
 
 NOTE:

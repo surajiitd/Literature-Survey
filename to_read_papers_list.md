@@ -16,8 +16,10 @@ Below 3 are the Early Deep Networks for Multiview Problems(said in DROID-SLAM ta
 - [FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)
 - [DeMoN: Depth and Motion Network for Learning Monocular Stereo](https://arxiv.org/abs/1612.02401)
 - [DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks](https://arxiv.org/abs/1709.08429)
-- 
-- 
+
+DROID-slam References:
+- (droid-slam took inspiration for n/w from them->)M. Dusmanu, J. L. Schonberger, and M. Pollefeys. Multi-view optimization of local feature geometry. In Proceedings of the ECCV2020
+- COLMAP
 
 ## To Revise [When have less time]
 
@@ -48,3 +50,5 @@ Below 3 are the Early Deep Networks for Multiview Problems(said in DROID-SLAM ta
 
 RNN, LSTM (and GRU), Bi-LSTM, BERT, XL..., RoBERTa, ViT, ViTAE, GAN, etc.
 
+### READ later:
+bundle adjustment, SFM, least square optimization
