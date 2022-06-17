@@ -44,11 +44,18 @@ DROID-slam References:
 - GAN
 
 
-
-
 ### NLP Concepts to Learn through Standard Source(or Papers): 
 
-RNN, LSTM (and GRU), Bi-LSTM, BERT, XL..., RoBERTa, ViT, ViTAE, GAN, etc.
+RNN, LSTM (and GRU), Bi-LSTM, BERT, XL..., RoBERTa, ViT, ViTAE, GAN, GPT-3, etc.
 
 ### READ later:
 bundle adjustment, SFM, least square optimization
+
+## To see Research Specific Repositories/Papers
+
+- [Elbrus Project](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam): 
+	I have seen very accurate tracking 
+	([link](https://www.youtube.com/watch?v=pZwXB1EI8wQ),
+	[link](https://www.youtube.com/watch?v=_zZuejQeuz4))
+	of this model using Stereo,intertial sensors. Nvidia elbrus link:[this one](https://docs.nvidia.com/isaac/archive/2020.2/packages/visual_slam/doc/visual_odometry.html) or [this](https://docs.nvidia.com/isaac/archive/2020.1/packages/perception/doc/visual_odometry.html)
+
